@@ -101,10 +101,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="HelloWorldActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mobilevangelist/glass/helloworld/HelloWorldActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="2" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.9002217" vertical-offset="119" max-vertical-offset="1635">
+            <state line="35" column="2" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1635">
               <folding>
                 <element signature="e#0#2920#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -113,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="56" selection-start="431" selection-end="431" vertical-scroll-proportion="-7.8" vertical-offset="0" max-vertical-offset="285">
+            <state line="10" column="47" selection-start="280" selection-end="280" vertical-scroll-proportion="0.35211268" vertical-offset="0" max-vertical-offset="426">
               <folding />
             </state>
           </provider>
@@ -703,20 +703,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="56" selection-start="431" selection-end="431" vertical-scroll-proportion="-7.8" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mobilevangelist/glass/helloworld/HelloWorldActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="2" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.9002217" vertical-offset="119" max-vertical-offset="1635">
+        <state line="35" column="2" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1635">
           <folding>
             <element signature="e#0#2920#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="47" selection-start="280" selection-end="280" vertical-scroll-proportion="0.35211268" vertical-offset="0" max-vertical-offset="426">
+          <folding />
         </state>
       </provider>
     </entry>
