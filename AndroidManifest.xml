@@ -4,8 +4,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="15"
-        android:targetSdkVersion="15" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="19" />
 
     <application
         android:allowBackup="true"
@@ -23,7 +23,7 @@
             <meta-data android:name="com.google.android.glass.VoiceTrigger"
                        android:resource="@xml/say_hello" />
         </activity>
-
     </application>
 
+    <uses-permission android:name="com.google.android.glass.permission.DEVELOPMENT" />
 </manifest>
